@@ -1,5 +1,5 @@
 {
-    "version": "1.11",
+    "version": "1.0",
     "download_url": "https://objects.githubusercontent.com/github-production-release-asset-2e65be/905073363/2e74f36f-e978-47e4-bbb7-57dcc9736a56?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20241220%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241220T191317Z&X-Amz-Expires=300&X-Amz-Signature=6be60b6e88d36906557b3a7bb1676a0bda6c170a5d52ac62e1f329bba8336d2b&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3DSetup_EngineerSystem1.1.zip&response-content-type=application%2Foctet-stream",
     "description": "إصدار جديد يتضمن تحسين تنسيقات الطباعة."
   }
