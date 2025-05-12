@@ -1,9 +1,10 @@
 {
-  "version": "1.3",
+  "version": "1.35",
   "download_url": "https://github.com/etqa/engineer-system-updates/releases/download/Setup_EngineerSystem1/Setup_EngineerSystem.zip",
   "description": [
       "تحسينات :",
-
+      " إصلاح خطأ البحث في قائمة الحسابات.",
+    
       " تحديث نظام الحماية والأمان: (*مهم جدا*) يجب الغاء تأمين التطبيق وحذف كلمة المرور الحالية قبل تنزيل التحديث .",
 
       " تحديث نافذة الترخيص : سيتطلب التحديث إعادة تفعيل المنظومة بكود جديد (يجب التواصل مع المطور) .",
